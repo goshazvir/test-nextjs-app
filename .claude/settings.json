@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-daemon-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "GeoLabsAI/claude-daemon"
+      }
+    }
+  }
+}
