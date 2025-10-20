@@ -40,5 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# claude - ignore local settings only
+# claude - ignore local settings and personal notes
 .claude/settings.local.json
+CLAUDE.local.md

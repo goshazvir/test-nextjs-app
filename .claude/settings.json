@@ -6,5 +6,8 @@
         "repo": "GeoLabsAI/claude-daemon"
       }
     }
+  },
+  "enabledPlugins": {
+    "claude-daemon@claude-daemon-marketplace": true
   }
 }
